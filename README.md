@@ -20,3 +20,7 @@ Some features included in this game include:
 - Leaderboard
 - Pause menu
 - Better playability: various camera angles to get a feel for the level, ability to toggle higlighting the goal to better see where to shoot
+
+# Screenshots
+
+![Leaderboards All 3 levels Scored](https://user-images.githubusercontent.com/74948994/156249902-4f15a74b-8882-479e-9e43-3259b4ab72c8.png)
