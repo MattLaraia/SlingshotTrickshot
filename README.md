@@ -23,4 +23,11 @@ Some features included in this game include:
 
 # Screenshots
 
-![Leaderboards All 3 levels Scored](https://user-images.githubusercontent.com/74948994/156249902-4f15a74b-8882-479e-9e43-3259b4ab72c8.png)
+# Gameplay
+
+# Goal
+
+# Toggle Highlight
+
+# Leaderboards
+![Leaderboards](https://user-images.githubusercontent.com/74948994/156250073-2e7de4d8-26fd-40c0-a194-b9b515e31781.png)
