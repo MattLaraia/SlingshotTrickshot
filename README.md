@@ -1,9 +1,9 @@
 # SlingshotTrickshot
 
+Slingshot Trickshot: shoot a ball from a slingshot into a goal. The more creative your shot, the greater the score!
+
 ![Main Menu](https://user-images.githubusercontent.com/74948994/156241343-96de97e1-d3a5-4870-84e7-1f43987a20c1.png)
 
-
-Slingshot Trickshot: shoot a ball from a slingshot into a goal. The more creative your shot, the greater the score!
 
 There are a few core ideas when designing this game that I wanted to implent:
 
