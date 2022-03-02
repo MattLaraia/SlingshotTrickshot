@@ -23,11 +23,14 @@ Some features included in this game include:
 
 # Screenshots
 
-# Gameplay
+## Gameplay
+![Gameplay](https://user-images.githubusercontent.com/74948994/156296858-eeaee64e-9a3c-40f3-aa08-0470f70d0d2d.png)
 
-# Goal
+## Goal
+![Goal](https://user-images.githubusercontent.com/74948994/156296630-6732e41e-a497-4bb9-86a2-20667b61fd08.png)
 
-# Toggle Highlight
+## Toggle Highlight
+![Highlight Goal](https://user-images.githubusercontent.com/74948994/156296619-208b591c-4d40-4fc9-bea8-9cea42b6cb17.png)
 
-# Leaderboards
+## Leaderboards
 ![Leaderboards](https://user-images.githubusercontent.com/74948994/156250073-2e7de4d8-26fd-40c0-a194-b9b515e31781.png)
